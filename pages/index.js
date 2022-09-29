@@ -47,7 +47,7 @@ function Home() {
                                     of Save Soil, Global Warming, etc.
                                 </p>
                             </div>
-                            <img src="./book.png" alt="asaf" height={300} width={300} />
+                            <img src="./book.png" alt="asaf" height={600} width={300} />
                         </div>
                         <div className="flex justify-center items-center">
                             <div className="flex flex-col justify-start items-center">
