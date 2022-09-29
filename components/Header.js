@@ -27,11 +27,6 @@ export default function Header() {
                         Dashboard
                     </h4>
                 </Link>
-                <Link href="https://plantspedia.vercel.app/">
-                    <h4 className="cursor-pointer bg-button bg-cover px-2 py-1 font-bold text-lg ">
-                        PlantsPedia
-                    </h4>
-                </Link>
                 <Link href="/poap">
                     <h4 className="cursor-pointer bg-button bg-cover px-2 py-1 font-bold text-lg ">
                         Competition
