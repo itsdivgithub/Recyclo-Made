@@ -31,9 +31,9 @@ function Home() {
                                     Main Mission
                                 </div>
                                 <p>
-                                    Our Ultimate Goal is to reduce and neutralize carbon emissions
-                                    by recycling waste items and educating people about our
-                                    current environmental issues.
+                                    Our Ultimate Goal is to reduce and neutralize 
+                                    carbon emissions by recycling waste items and
+                                    educating people about our current environmental issues.
                                 </p>
                             </div>
                             <img src="./tree.png" alt="book" width={300} height={300} />
