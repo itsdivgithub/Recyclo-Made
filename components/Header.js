@@ -8,7 +8,7 @@ export default function Header() {
                 <Link href="/">
                     {/* <h1 className="py-4 px-4 font-bold text-3xl cursor-pointer bg-button bg-cover">
                         {" "}
-                        Plants And Pillars{" "}
+                        Recyclomade{" "}
                     </h1> */}
                     <div className="bg-button bg-cover rounded-3xl  cursor-pointer">
                         <img src="./pap.png" alt="pap" width={150} height={150} />
