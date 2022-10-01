@@ -36,7 +36,7 @@ function Home() {
                                     educating people about our current environmental issues.
                                 </p>
                             </div>
-                            <img src="./tree.png" alt="book" width={300} height={300} />
+                            <img src="./recycle.png" alt="book" width={300} height={300} />
                         </div>
                         <div className="flex justify-center items-center">
                             <div className="flex flex-col justify-start items-center">
