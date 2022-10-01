@@ -53,8 +53,8 @@ function Home() {
                             <div className="flex flex-col justify-start items-center">
                                 <div className="text-black font-bold text-lg pb-3">Game</div>
                                 <p>
-                                    A Lottery Game to keep our supporters engaged to keep planting
-                                    trees and get an equal chance of winning every day.
+                                    A Lottery Game to keep our supporters engaged to keep making unique handmade items by recycling
+                                    more waste products and get an equal chance of winning every day.
                                 </p>
                             </div>
                             <img src="./dice.png" alt="asaf" height={300} width={300} />
