@@ -28,6 +28,8 @@ Core Objectives and Future Plans of RecycloMade-
 
 - Polygon Dapp - The whole app is deployed on Polygon Mumbai Testnet.
 
+- Covalent Dashboard
+
 - IPFS - Used NFT Port to mint the images clicked by the users. NFTs which are uploaded through NFTPort are uploaded on IPFS.
 - Link - https://github.com/itsdivgithub/Recyclo-Made/blob/main/components/MintNFT.js
 
