@@ -1,22 +1,21 @@
 # RecycloMade
 
-Project Description -
-- RecycloMade is a decentralized organization that aims to encourage people to recycle waste items and make something unique & best out of it in order to make Earth a better place to live in.
-- We aim to build a community of enthusiasts who'll help us achieve our goal of creating 1 million handmade items by recycling waste items .
+##About-
+RecycloMade is a lottery game where users can participate by signing through metamask and in order to win prizes they must recycle waste items and create handmade items from them. After that, they have to mint NFT of their work by clicking pictures of their handmade item and submitting it in the form on the website. We will select the best handmade crafts and reward users with gifts and prizes. This game will spread awareness about the importance of recycling and make people recycle more and show creativity by making handmade items. Global Warming is a serious concern and the Recyclomade community understands it, we will work more to make our Dapp better and useful.
+
 
 ## Objectives
 
 ---
 
-Core Objectives and Future Plans of RecycloMade-
+##Purpose & Plans of RecycloMade-
 
-- 🔗 **Connecting**: Our aim is to connect and make people aware of the importance of recycling to human mankind.
-- 💵 Award: We'll randomly award our supporters to add a P2E environment to this projection in order to keep the people engaged in this project which will eventually help mother Nature.
-- 🔔 **Update**: With the help of EPNS help, users are notified whenever they get anything credited/ debited.
-- 📈 **Streaming Money**: Send money over time with the integration with Superfluid.
-- 📚 **Education:** Our Organization will also make people aware of the current situation on Earth and educate them regarding the global issues of **SAVE SOIL**, **GLOBAL WARMING**, etc.
-- 🌍 **RECYCLOMADE DAO**: This will help our community to take all the important decisions in a decentralized way and help in the smooth functioning of the project.
-- 🎯 **AIM**: Our Ultimate Goal is to reduce Pollution by recycling waste items and also educating people about our current environmental issues. People can show creativity by making something unique by concept of recycling.
+- Our aim is to connect and make people aware of the importance of recycling to human mankind.
+- We'll randomly award our supporters in order to keep the people engaged in this project which will eventually help mother   Nature.
+- With the help of EPNS help, users are notified whenever they get anything credited/ debited.
+- Send money over time with the integration with Superfluid.
+- Our Organization will also make people aware of the current situation on Earth and educate them regarding the global issues of **SAVE SOIL**, **GLOBAL WARMING**,       etc.
+- Our Ultimate Goal is to reduce Pollution by recycling waste items and also educating people about our current environmental issues. People can show creativity by       making something unique by concept of recycling.
 
 ### Implementation and MVP
 
@@ -49,23 +48,6 @@ Core Objectives and Future Plans of RecycloMade-
 the performUpkeep function will automatically execute the functions in a set time period when the day has ended. This function also automatically sends the amount to the winner of that day.
 - Link - https://github.com/itsdivgithub/Recyclo-Made/blob/main/components/LotteryEntrance.js
 
-
-
-
-
-
-### **Tech Stack -**
-- **BACKEND -**
-- IPFS
-- POAP
-- Solidity
-- Hardhat
-- Chainlink
-
-- **FRONTEND -**
-- Nextjs for the frontend app
-- TailwindCSS
-- web3uikit by Moralis
 
 - NOTION PAGE - https://spiritual-baryonyx-0b4.notion.site/RecycloMade-9e4d726326bd49c486b4efdbe3d95b6d
 
